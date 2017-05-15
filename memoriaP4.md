@@ -1,4 +1,4 @@
-# Práctica 3: Texturas
+# Práctica 4: Interacción
 ## Gustavo Rivas Gervilla
 
 ### Primeros pasos
