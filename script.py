@@ -8,8 +8,8 @@ spinLeft = cont.actuators["spinLeft"]
 pressJ = cont.sensors["J"]
 pressH = cont.sensors["H"]
 
-head1 = cont.owner
-zRot = head1.worldOrientation.to_euler()[2]
+head = cont.owner
+zRot = head.worldOrientation.to_euler()[2]
 
 if pressJ.positive and zRot > -1:
     print("Presionado J")
