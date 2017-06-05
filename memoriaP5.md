@@ -8,3 +8,7 @@ Lo primero que he hecho ha sido añadir un plano a modo de suelo de modo que nos
 ### Observaciones
 
 * La deformación se observa mejor sobre una esfera que sobre un cubo, probablemente por el número de vértices y caras de cada uno de ellos.
+
+### Enlaces consultados
+
+* []()
